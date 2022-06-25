@@ -1,5 +1,5 @@
 # Supersingular Isogeny-based Criptography
-This projects provides a SageMath implementation of three protocols: Supersingular Isogeny Diffie-Hellman (SIDH), Supersingular Isogeny Public key and Supersingular Isogeny Zero-Knowledge (SIZK). This project is part of my undergraduate thesis.
+This project provides a SageMath implementation of three protocols: Supersingular Isogeny Diffie-Hellman (SIDH), Supersingular Isogeny Public key and Supersingular Isogeny Zero-Knowledge (SIZK). This project is part of my undergraduate thesis.
 
 ## Instructions
 
